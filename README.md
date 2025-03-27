@@ -1,2 +1,1 @@
-# todo-user-ts-mongo
-# todo-user-ts-mongo
+Todo App (TypeScript + Express + MongoDB)
